@@ -7,6 +7,9 @@ CTF Wiki.
 https://ctf101.org/
 CTF 101.
 
+http://www.catb.org/~esr/faqs/hacker-howto.html
+How to become a Hacker by Eric S. Raymond
+
 https://beginners.re/
 Reverse Engineering for Beginners.
 
