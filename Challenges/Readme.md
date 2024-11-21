@@ -1,3 +1,7 @@
+# CTF/Wargame Challenges
+This list is intended for individuals seeking to learn and practice various CTF challenges or explore specialized learning platforms that cover everything from fundamental basics.
+---
+
 ## Learning Platforms
 [TryHackMe](https://tryhackme.com/)
 Free online platform for learning cyber security, using hands-on exercises and labs, all through the browser.
