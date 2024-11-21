@@ -31,3 +31,6 @@ CTF framework and exploit dev lib.
 
 https://www.ired.team/
 Red Team Notes.
+
+https://genai.owasp.org/llm-top-10/
+OWASP LLM Prompt Injection.
